@@ -1,0 +1,8 @@
+print("Dhruv")
+print("18")
+print("Bhagwan Mahavir University")
+print("*")
+print("**")
+print("***")
+print("**")
+print("*")
